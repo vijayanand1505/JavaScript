@@ -1,6 +1,5 @@
-// const obj = fetch("https://jsonplaceholder.typicode.com/users");
-
-// console.log(obj);
+const obj = fetch("https://jsonplaceholder.typicode.com/users");
+console.log(obj);
 
 
 
